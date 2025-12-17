@@ -15,7 +15,7 @@ class Program
         // 3) Jedan ASCII znak npr: @
         // 4) Je li korisnik prijavljen (da / ne)
         //
-        // ISPIŠI ODABRANE VARIJABLE 
+        // ISPIŠI SVE NASTALE VARIJABLE  SVAKA U POSEBNI RED
         //
         //
         // ============================================================
